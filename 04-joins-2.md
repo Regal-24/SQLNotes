@@ -7,6 +7,8 @@
  - WHERE vs ON
  - Union and Union All 
 
+![image](https://github.com/user-attachments/assets/59b98dd4-222e-4707-be4f-c810e0250ccf)
+
 
 ## Self Join
 
